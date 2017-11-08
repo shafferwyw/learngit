@@ -5,3 +5,4 @@ readme.txt
 1111
 2222
 3333
+Creating a new branch is quick.
