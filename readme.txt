@@ -6,3 +6,4 @@ readme.txt
 2222
 3333
 Creating a new branch is quick.
+Creating a new branch is quick AND simple(on master).
